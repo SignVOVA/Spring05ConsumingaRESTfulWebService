@@ -18,7 +18,7 @@ public class Value {
 	public String getQuote() {
 		return this.quote;
 	}
-	
+		
 	public void setId(Long id) {
 		this.id = id;
 	}
